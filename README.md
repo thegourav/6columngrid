@@ -1,4 +1,4 @@
-# ui.6columngrid
+# 6columngrid
 This is a small 6 column grid system..
 
 This is using palin css and % based grid
